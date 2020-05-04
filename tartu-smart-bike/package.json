@@ -1,0 +1,21 @@
+{
+  "name": "tartu-smart-bike",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Silver Sten Kruus",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "next",
+    "start": "next start",
+    "build": "next build"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dayjs": "^1.8.25",
+    "mongodb": "^3.5.6",
+    "next": "^9.3.5",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}

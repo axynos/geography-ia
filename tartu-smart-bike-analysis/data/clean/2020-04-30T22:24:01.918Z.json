@@ -1,0 +1,488 @@
+{
+  "timestamp": "2020-04-30T22:24:01.918Z",
+  "stations": [
+    {
+      "name": "AHHAA",
+      "id": "46",
+      "maxCapacity": 6,
+      "currentCapacity": 3,
+      "freeCapacity": 3
+    },
+    {
+      "name": "Aleksandri",
+      "id": "32",
+      "maxCapacity": 6,
+      "currentCapacity": 4,
+      "freeCapacity": 3
+    },
+    {
+      "name": "Annelinn",
+      "id": "07",
+      "maxCapacity": 16,
+      "currentCapacity": 11,
+      "freeCapacity": 5
+    },
+    {
+      "name": "Annelinna gümnaasium",
+      "id": "06",
+      "maxCapacity": 8,
+      "currentCapacity": 6,
+      "freeCapacity": 2
+    },
+    {
+      "name": "Annelinna keskus",
+      "id": "03",
+      "maxCapacity": 12,
+      "currentCapacity": 15,
+      "freeCapacity": 1
+    },
+    {
+      "name": "Annelinna kiir",
+      "id": "05",
+      "maxCapacity": 16,
+      "currentCapacity": 13,
+      "freeCapacity": 3
+    },
+    {
+      "name": "Anne saun",
+      "id": "08",
+      "maxCapacity": 12,
+      "currentCapacity": 6,
+      "freeCapacity": 8
+    },
+    {
+      "name": "Aparaaditehas",
+      "id": "40",
+      "maxCapacity": 11,
+      "currentCapacity": 10,
+      "freeCapacity": 3
+    },
+    {
+      "name": "Aura veekeskus",
+      "id": "33",
+      "maxCapacity": 18,
+      "currentCapacity": 13,
+      "freeCapacity": 5
+    },
+    {
+      "name": "Delta",
+      "id": "65",
+      "maxCapacity": 20,
+      "currentCapacity": 8,
+      "freeCapacity": 12
+    },
+    {
+      "name": "Eeden",
+      "id": "68",
+      "maxCapacity": 12,
+      "currentCapacity": 10,
+      "freeCapacity": 2
+    },
+    {
+      "name": "EMÜ spordihoone",
+      "id": "50",
+      "maxCapacity": 16,
+      "currentCapacity": 13,
+      "freeCapacity": 3
+    },
+    {
+      "name": "ERM",
+      "id": "13",
+      "maxCapacity": 8,
+      "currentCapacity": 5,
+      "freeCapacity": 5
+    },
+    {
+      "name": "Ihaste",
+      "id": "61",
+      "maxCapacity": 11,
+      "currentCapacity": 9,
+      "freeCapacity": 3
+    },
+    {
+      "name": "J. Hurda",
+      "id": "42",
+      "maxCapacity": 11,
+      "currentCapacity": 7,
+      "freeCapacity": 4
+    },
+    {
+      "name": "Kaare",
+      "id": "48",
+      "maxCapacity": 11,
+      "currentCapacity": 6,
+      "freeCapacity": 5
+    },
+    {
+      "name": "Kalda tee",
+      "id": "01",
+      "maxCapacity": 18,
+      "currentCapacity": 9,
+      "freeCapacity": 10
+    },
+    {
+      "name": "Kannikese",
+      "id": "20",
+      "maxCapacity": 11,
+      "currentCapacity": 9,
+      "freeCapacity": 2
+    },
+    {
+      "name": "Karete",
+      "id": "37",
+      "maxCapacity": 10,
+      "currentCapacity": 9,
+      "freeCapacity": 1
+    },
+    {
+      "name": "Kaunase puiestee",
+      "id": "02",
+      "maxCapacity": 14,
+      "currentCapacity": 11,
+      "freeCapacity": 3
+    },
+    {
+      "name": "K. E. von Baeri",
+      "id": "17",
+      "maxCapacity": 8,
+      "currentCapacity": 5,
+      "freeCapacity": 3
+    },
+    {
+      "name": "Kivilinna",
+      "id": "69",
+      "maxCapacity": 12,
+      "currentCapacity": 4,
+      "freeCapacity": 8
+    },
+    {
+      "name": "Kopli",
+      "id": "64",
+      "maxCapacity": 16,
+      "currentCapacity": 8,
+      "freeCapacity": 8
+    },
+    {
+      "name": "Kuu",
+      "id": "36",
+      "maxCapacity": 9,
+      "currentCapacity": 4,
+      "freeCapacity": 5
+    },
+    {
+      "name": "Kvissentali",
+      "id": "62",
+      "maxCapacity": 9,
+      "currentCapacity": 8,
+      "freeCapacity": 1
+    },
+    {
+      "name": "Lossi",
+      "id": "47",
+      "maxCapacity": 11,
+      "currentCapacity": 8,
+      "freeCapacity": 3
+    },
+    {
+      "name": "Lõunakeskus",
+      "id": "51",
+      "maxCapacity": 10,
+      "currentCapacity": 3,
+      "freeCapacity": 8
+    },
+    {
+      "name": "Maarjamõisa",
+      "id": "63",
+      "maxCapacity": 16,
+      "currentCapacity": 1,
+      "freeCapacity": 15
+    },
+    {
+      "name": "Magistri",
+      "id": "56",
+      "maxCapacity": 16,
+      "currentCapacity": 8,
+      "freeCapacity": 8
+    },
+    {
+      "name": "Mõisavahe",
+      "id": "04",
+      "maxCapacity": 14,
+      "currentCapacity": 8,
+      "freeCapacity": 6
+    },
+    {
+      "name": "Näituse",
+      "id": "18",
+      "maxCapacity": 9,
+      "currentCapacity": 6,
+      "freeCapacity": 3
+    },
+    {
+      "name": "Orava",
+      "id": "15",
+      "maxCapacity": 9,
+      "currentCapacity": 16,
+      "freeCapacity": 0
+    },
+    {
+      "name": "Papli",
+      "id": "09",
+      "maxCapacity": 11,
+      "currentCapacity": 11,
+      "freeCapacity": 0
+    },
+    {
+      "name": "Pargi",
+      "id": "35",
+      "maxCapacity": 11,
+      "currentCapacity": 10,
+      "freeCapacity": 3
+    },
+    {
+      "name": "Pirogovi plats",
+      "id": "55",
+      "maxCapacity": 16,
+      "currentCapacity": 6,
+      "freeCapacity": 10
+    },
+    {
+      "name": "Põhja puiestee",
+      "id": "11",
+      "maxCapacity": 9,
+      "currentCapacity": 12,
+      "freeCapacity": 2
+    },
+    {
+      "name": "Põllu",
+      "id": "58",
+      "maxCapacity": 14,
+      "currentCapacity": 6,
+      "freeCapacity": 8
+    },
+    {
+      "name": "Postimaja",
+      "id": "26",
+      "maxCapacity": 5,
+      "currentCapacity": 8,
+      "freeCapacity": 0
+    },
+    {
+      "name": "Raatuse",
+      "id": "49",
+      "maxCapacity": 20,
+      "currentCapacity": 11,
+      "freeCapacity": 9
+    },
+    {
+      "name": "Raatuse kool",
+      "id": "44",
+      "maxCapacity": 14,
+      "currentCapacity": 12,
+      "freeCapacity": 3
+    },
+    {
+      "name": "Rahu",
+      "id": "52",
+      "maxCapacity": 13,
+      "currentCapacity": 6,
+      "freeCapacity": 7
+    },
+    {
+      "name": "Raja",
+      "id": "22",
+      "maxCapacity": 9,
+      "currentCapacity": 5,
+      "freeCapacity": 4
+    },
+    {
+      "name": "Ränilinn",
+      "id": "23",
+      "maxCapacity": 11,
+      "currentCapacity": 6,
+      "freeCapacity": 5
+    },
+    {
+      "name": "Raudteejaam",
+      "id": "29",
+      "maxCapacity": 21,
+      "currentCapacity": 10,
+      "freeCapacity": 11
+    },
+    {
+      "name": "Riiamäe",
+      "id": "66",
+      "maxCapacity": 16,
+      "currentCapacity": 7,
+      "freeCapacity": 9
+    },
+    {
+      "name": "Roosi",
+      "id": "12",
+      "maxCapacity": 15,
+      "currentCapacity": 10,
+      "freeCapacity": 6
+    },
+    {
+      "name": "Rüütli",
+      "id": "16",
+      "maxCapacity": 15,
+      "currentCapacity": 9,
+      "freeCapacity": 7
+    },
+    {
+      "name": "Sepa turg",
+      "id": "60",
+      "maxCapacity": 11,
+      "currentCapacity": 9,
+      "freeCapacity": 2
+    },
+    {
+      "name": "Sõbra",
+      "id": "27",
+      "maxCapacity": 10,
+      "currentCapacity": 7,
+      "freeCapacity": 4
+    },
+    {
+      "name": "Soola",
+      "id": "45",
+      "maxCapacity": 11,
+      "currentCapacity": 7,
+      "freeCapacity": 4
+    },
+    {
+      "name": "Sõpruse sild",
+      "id": "34",
+      "maxCapacity": 10,
+      "currentCapacity": 11,
+      "freeCapacity": 2
+    },
+    {
+      "name": "Tähtvere spordipark",
+      "id": "39",
+      "maxCapacity": 9,
+      "currentCapacity": 9,
+      "freeCapacity": 0
+    },
+    {
+      "name": "Tamme gümnaasium",
+      "id": "53",
+      "maxCapacity": 16,
+      "currentCapacity": 8,
+      "freeCapacity": 8
+    },
+    {
+      "name": "Tamme kool",
+      "id": "67",
+      "maxCapacity": 16,
+      "currentCapacity": 11,
+      "freeCapacity": 6
+    },
+    {
+      "name": "Tamme puiestee",
+      "id": "24",
+      "maxCapacity": 10,
+      "currentCapacity": 11,
+      "freeCapacity": 1
+    },
+    {
+      "name": "Tamme staadion",
+      "id": "28",
+      "maxCapacity": 12,
+      "currentCapacity": 7,
+      "freeCapacity": 5
+    },
+    {
+      "name": "Tarmeko",
+      "id": "59",
+      "maxCapacity": 11,
+      "currentCapacity": 8,
+      "freeCapacity": 6
+    },
+    {
+      "name": "Torni",
+      "id": "38",
+      "maxCapacity": 16,
+      "currentCapacity": 4,
+      "freeCapacity": 12
+    },
+    {
+      "name": "Tulbi",
+      "id": "19",
+      "maxCapacity": 9,
+      "currentCapacity": 10,
+      "freeCapacity": 1
+    },
+    {
+      "name": "TÜ raamatukogu",
+      "id": "31",
+      "maxCapacity": 21,
+      "currentCapacity": 5,
+      "freeCapacity": 16
+    },
+    {
+      "name": "Turusild",
+      "id": "10",
+      "maxCapacity": 16,
+      "currentCapacity": 8,
+      "freeCapacity": 8
+    },
+    {
+      "name": "Ülejõe park",
+      "id": "41",
+      "maxCapacity": 16,
+      "currentCapacity": 8,
+      "freeCapacity": 8
+    },
+    {
+      "name": "Uueturu",
+      "id": "43",
+      "maxCapacity": 24,
+      "currentCapacity": 1,
+      "freeCapacity": 23
+    },
+    {
+      "name": "Vabadussild",
+      "id": "57",
+      "maxCapacity": 10,
+      "currentCapacity": 8,
+      "freeCapacity": 4
+    },
+    {
+      "name": "Vahi",
+      "id": "14",
+      "maxCapacity": 12,
+      "currentCapacity": 7,
+      "freeCapacity": 5
+    },
+    {
+      "name": "Vanemuise park",
+      "id": "30",
+      "maxCapacity": 21,
+      "currentCapacity": 8,
+      "freeCapacity": 15
+    },
+    {
+      "name": "Veeriku",
+      "id": "54",
+      "maxCapacity": 16,
+      "currentCapacity": 2,
+      "freeCapacity": 14
+    },
+    {
+      "name": "Viie tee rist",
+      "id": "25",
+      "maxCapacity": 9,
+      "currentCapacity": 3,
+      "freeCapacity": 6
+    },
+    {
+      "name": "W. Ostwaldi",
+      "id": "21",
+      "maxCapacity": 20,
+      "currentCapacity": 5,
+      "freeCapacity": 15
+    }
+  ]
+}

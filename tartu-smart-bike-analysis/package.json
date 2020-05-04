@@ -1,0 +1,15 @@
+{
+  "name": "tartu-smart-bike-analysis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Silver Sten Kruus",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "dayjs": "^1.8.26",
+    "mongodb": "^3.5.7"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
